@@ -7,7 +7,7 @@
     <version>1.0</version>
 
 <scm>
-    <url>https://github.com/tanyabr/calc.git</url>
+    <url>https://github.com/tanyabr/calc</url>
     <connection>scm:git:ssh://git@github.com/tanyabr/calc.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/tanyabr/calc.git</developerConnection>
 </scm>
